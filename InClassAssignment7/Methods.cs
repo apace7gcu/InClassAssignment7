@@ -4,6 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+//Amanda Pace
+//Bill Hughes - CST 117
+//11/14/2020
+//This program is my own work 
+//(some source code from class lecture)
+
+
 namespace InClassAssignment7
 {
     class Methods
